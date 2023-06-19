@@ -1,0 +1,88 @@
+body{
+    background-color: #D6D6D6;
+    margin: 0%;
+    width: 100vw;
+    overflow-x: hidden;
+}
+
+nav{
+    background-color: rgb(37, 36, 36);
+    display: flex;
+    justify-content: center;
+}
+.u-list{
+    justify-content: center;
+    display: flex;
+    padding: 0%;
+    margin: 1% 0%;
+}
+.li-list{
+    display: inline-flex;
+    align-items: center;
+    color: gold;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+.otherpages{
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    color: gold;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+
+.otherpages:hover{
+    cursor: pointer;
+    font-size: 130%;
+    display: inline-flex;
+    align-items: center;
+    color: gold;
+    text-decoration: none;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+#currentpage{
+    font-size: 160%;
+    margin-left: 2%;
+    margin-right: 20%;
+    
+}
+
+
+#img1{
+    /* background-image: url("../IMG/bmw-logo.png"); */
+}
+
+#brandsinfloor{
+    background-color: rgb(44, 44, 44);
+    height: auto;
+}
+.brands{
+    display: flex;
+    justify-content: center;
+}
+.brandtxt{
+    display: inline-flex;
+    justify-content: center;
+    color: gold;
+    font-size: 300%;
+}
+.Logos{
+    margin-left: 80px;
+    margin-top: 3%;
+    margin-right: 80px;
+    display: flex;
+    justify-content: space-around;
+}
+.logo{
+    display: inline-flex;
+    align-items: center;
+}
+
+footer{
+    color: #D6D6D6;
+    background-color: rgb(37, 36, 36);
+}
+
+
